@@ -5,3 +5,4 @@
     "order_id" : "32",
     "promo_code": "JUBAJUBA" 
 }
+3. promocode sanamsli uchun "promo_code": "" berish kere
